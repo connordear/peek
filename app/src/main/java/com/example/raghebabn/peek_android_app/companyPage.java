@@ -3,7 +3,7 @@ package com.example.raghebabn.peek_android_app;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class companyPage extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
